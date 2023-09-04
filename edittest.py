@@ -11,3 +11,4 @@ flt_pi = 3.14
 char_element = 'a'
 chars = "hello world"
 print("number : ", number_school, " name : ", str_name, "bool : ", bool_view, " float : ", flt_pi, " charcter : " , char_element, " charcters : ", chars)
+111
