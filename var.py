@@ -108,18 +108,37 @@ my_dict = {'key1': 'value1', 'key2': 'value2'}
 my_str = my_dict.get("key2")
 
 print(my_str)
+"""
 
 my_dict = {'key1': 'value1', 'key2': 'value2'}
 dicts = my_dict.copy()
 
 print(dicts)
 print(my_dict)
-"""
 
-my_dict = {'key1': 'value1', 'key2': 'value2'}
-dicData = {"name" : "python", "number" : 23564897}
 
-my_dict["key3"] = "value3"
+#my_dict = {'key1': 'value1', 'key2': 'value2'}
+#dicData = {"name" : "python", "number" : 23564897}
+
+
+"""my_dict["key3"] = "value3"
 
 print(my_dict)
 
+my_dict.update({"key1" : "v4"})
+
+print(my_dict)
+
+del my_dict["key2"]
+print(my_dict)
+
+print("key2" in my_dict)
+print("key3" in my_dict)
+
+my_list = list(my_dict.valuse())
+print(my_list)
+
+my_dict.clear()
+    
+print(my_dict)
+"""
