@@ -115,7 +115,7 @@ dicts = my_dict.copy()
 
 print(dicts)
 print(my_dict)
-
+111
 
 #my_dict = {'key1': 'value1', 'key2': 'value2'}
 #dicData = {"name" : "python", "number" : 23564897}
